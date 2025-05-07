@@ -1,0 +1,16 @@
+#import holoviews as hv
+#import pandas as pd
+#hv.extension('bokeh')
+
+#import pandas as pd
+#Playes = 'Players.xlsx'
+#df = pd.read_excel(Playes)
+#print(df)
+#x = df["online"]
+#y = df["Players"]
+
+
+#curve = hv.Curve((x, y), label='Моя кривая')
+#curve.opts(width=500, title="Пример графика")
+
+#hv.save(curve, 'graph.html')
