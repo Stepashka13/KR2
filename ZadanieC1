@@ -1,0 +1,21 @@
+#import pandas as pd
+#Playes = 'Players.xlsx'
+#df = pd.read_excel(Playes)
+#print(df)
+
+
+#Koorginata = int(input("Введите координату: "))
+#Tablichka = input("Введите название столба: ")
+#Igra = int(input("Введите новое значение: "))
+
+#df_excel = ("Players.xlsx")
+
+#df = pd.read_excel(df_excel)
+
+#print("Исходные данные:")
+#print(df)
+
+
+#df.loc[Koorginata, Tablichka] = Igra
+#print("\nДанные после изменения:")
+#print(df)
